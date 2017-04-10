@@ -1,0 +1,9 @@
+Building Yibitcoin
+
+See doc/readme-qt.rst for instructions on building Yibitcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Yibitcoin.
+
+See doc/build-*.txt for instructions on building Yibitcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Yibitcoin.
